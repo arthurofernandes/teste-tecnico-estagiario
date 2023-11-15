@@ -1,0 +1,23 @@
+.produtoBox{
+
+    padding: 6rem;
+    background-color: antiquewhite;
+    border: 3px solid rgb(78, 171, 224);
+    border-radius: 15%;
+    color:black;
+    width: 30rem;
+    display: inline-block;
+    text-align: center;
+}
+
+.produtoNome{
+    font-size: 3rem;
+}
+
+.produtoPreco{
+    font-size: 2rem;;
+}
+
+#listaProdutos{
+    display: flexbox;
+}

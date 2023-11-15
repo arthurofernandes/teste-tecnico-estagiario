@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "next": "^14.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "eslint": "latest",
     "eslint-config-next": "latest"
-  }
+  },
+  "description": "Este teste técnico tem como objetivo avaliar seu conhecimento em React, bem como sua habilidade para resolver problemas de desenvolvimento web. Siga as instruções abaixo para cada questão e forneça as respostas ou código solicitados. Certifique-se de ler atentamente cada pergunta e responder de forma clara e concisa.",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
